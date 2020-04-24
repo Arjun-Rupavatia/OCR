@@ -1,2 +1,2 @@
 # OCR
-OCR for SGP sem6
+General purpose Otical Character Recgnition for Traffic data analysis
